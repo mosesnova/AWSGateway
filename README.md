@@ -1,2 +1,2 @@
-# BNZGateway
+# AWSGateway
 AWS API Gateway
